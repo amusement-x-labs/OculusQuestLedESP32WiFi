@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/WebBased.unity
+    guid: 7f3aa932604ff304f947630c8804343a
+  - enabled: 1
+    path: Assets/Scenes/BluetoothBased.unity
+    guid: 9a15add9863ec074285196554ef2a52c
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 7e2ecdf3ad39372438454e417a4bd39d, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a77930d108a01dd40a400b50a64f0e1f, type: 2}
